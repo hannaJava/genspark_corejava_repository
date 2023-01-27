@@ -24,7 +24,7 @@ public class LargestNumber {
 
 
 
-        //Write a Java Program to Show Overloading of Methods in Class
+
 
 
 
@@ -33,15 +33,14 @@ public class LargestNumber {
         //Write a  Java Program to add two binary numbers.
         //Write a Java Program to Show Usage of Main() method
         //Write a Java Program to Show Use of Static and Non-static Methods
-        //Write a Java Program For Linear Search
-        //Write a Java Program For Binary Search
+
+
         //Write a Java Program to Remove Duplicate Elements From an Array
         //Write a Java Program to Remove All Occurrences of an Element in an Array
         //Write a Java Program to Sort a String
         //Write a Java Program to Swapping A Pair of Characters
         //Write a Java Program to Compare Paths of Two files
         //Write a Java Program to Read content from one file and writing it into another file
-        //Write a Java Program to Handle the Checked exceptions
         //Write a Java Program to Handle the Unchecked Exceptions
     }
 
