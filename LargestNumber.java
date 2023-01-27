@@ -30,13 +30,13 @@ public class LargestNumber {
 
         //Write a Java Program to Show Usage of Static keyword in Class
         //Write a Java Program to Show Usage of Access Modifier
-        //Write a  Java Program to add two binary numbers.
+
         //Write a Java Program to Show Usage of Main() method
         //Write a Java Program to Show Use of Static and Non-static Methods
 
 
-        //Write a Java Program to Remove Duplicate Elements From an Array
-        //Write a Java Program to Remove All Occurrences of an Element in an Array
+
+
         //Write a Java Program to Sort a String
         //Write a Java Program to Swapping A Pair of Characters
         //Write a Java Program to Compare Paths of Two files
